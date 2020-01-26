@@ -1,0 +1,105 @@
+<table>
+	<tr>
+		<td><div>
+			<table class="table table-bordered table-hover " cellspacing="0" rules="all" id="ContentPlaceHolder1_sonuclargrid" style="border-width:1px;border-style:Solid;width:281px;border-collapse:collapse;">
+				<tr>
+					<th scope="col">Numara</th><th scope="col">Ad-Soyad</th><th scope="col">Soru1</th><th scope="col">Soru2</th><th scope="col">Soru3</th><th scope="col">Soru4</th><th scope="col">Soru5</th><th scope="col">Soru6</th><th scope="col">Soru7</th><th scope="col">Soru8</th><th scope="col">Soru9</th><th scope="col">Soru10</th><th scope="col">Soru11</th><th scope="col">Soru12</th><th scope="col">Soru13</th><th scope="col">Soru14</th><th scope="col">Soru15</th><th scope="col">Soru16</th><th scope="col">Soru17</th><th scope="col">Soru18</th><th scope="col">Soru19</th><th scope="col">Soru20</th><th scope="col">Soru21</th><th scope="col">Soru22</th><th scope="col">Soru23</th><th scope="col">Soru24</th><th scope="col">Soru25</th><th scope="col">Soru26</th><th scope="col">Soru27</th><th scope="col">Soru28</th><th scope="col">Soru29</th><th scope="col">Soru30</th><th scope="col">Puan</th>
+				</tr><tr>
+					<td>120111065</td><td>EBRU-YILMAZ</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>0</td><td>0</td><td>3,33</td><td>0</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>50</td>
+				</tr><tr>
+					<td>090112006</td><td>DİDEM-DİK</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3,33</td><td>0</td><td>0</td><td>53,33</td>
+				</tr><tr>
+					<td>130111047</td><td>ELZEM-AKSU</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>100</td>
+				</tr><tr>
+					<td>120111024</td><td>ELİF-ERG&amp;#220;N</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>76,67</td>
+				</tr><tr>
+					<td>120111097</td><td>DUYGU-YENERSU</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>100</td>
+				</tr><tr>
+					<td>&nbsp;</td><td>ZEYNEP-ASLAN</td><td>0</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>0</td><td>3,33</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>36,67</td>
+				</tr><tr>
+					<td>11011 0</td><td>REMZİYE-ŞEN</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>56,67</td>
+				</tr><tr>
+					<td>100112074</td><td>UĞUR-USTA</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>0</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>0</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>50</td>
+				</tr><tr>
+					<td>120141097</td><td>KAYRA-YENERSU</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+				</tr><tr>
+					<td>120111050</td><td>GİZEM-&amp;#214;ZMEN</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>80</td>
+				</tr><tr>
+					<td>120111035</td><td>&#246;zge-ELMASTAŞ</td><td>3,33</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>3,33</td><td>0</td><td>0</td><td>3,33</td><td>3,33</td><td>3,33</td><td>60</td>
+				</tr><tr>
+					<td>Ortalama</td><td> </td><td>2,42</td><td>2,12</td><td>2,42</td><td>1,21</td><td>1,52</td><td>1,52</td><td>2,12</td><td>1,82</td><td>1,82</td><td>2,12</td><td>1,82</td><td>1,52</td><td>2,73</td><td>2,42</td><td>1,82</td><td>2,12</td><td>2,12</td><td>2,42</td><td>2,42</td><td>1,82</td><td>2,73</td><td>2,12</td><td>2,12</td><td>2,12</td><td>2,12</td><td>0,61</td><td>1,82</td><td>2,42</td><td>2,12</td><td>1,82</td><td> </td>
+				</tr>
+			</table>
+		</div></td>
+	</tr><tr>
+		<td>&nbsp;</td>
+	</tr><tr>
+		<td><div>
+			<table class="table table-bordered table-hover " cellspacing="0" rules="all" id="ContentPlaceHolder1_sorularyuzdegrid" style="border-width:1px;border-style:Solid;border-collapse:collapse;">
+				<tr>
+					<th scope="col">Soru-Numarası</th><th scope="col">Ortalaması(Puan)</th><th scope="col">Başarımı(%)</th>
+				</tr><tr>
+					<td>Soru 1</td><td>2,42</td><td>%72,7272727272727</td>
+				</tr><tr>
+					<td>Soru 2</td><td>2,12</td><td>%63,6363636363636</td>
+				</tr><tr>
+					<td>Soru 3</td><td>2,42</td><td>%72,7272727272727</td>
+				</tr><tr>
+					<td>Soru 4</td><td>1,21</td><td>%36,3636363636364</td>
+				</tr><tr>
+					<td>Soru 5</td><td>1,52</td><td>%45,4545454545455</td>
+				</tr><tr>
+					<td>Soru 6</td><td>1,52</td><td>%45,4545454545455</td>
+				</tr><tr>
+					<td>Soru 7</td><td>2,12</td><td>%63,6363636363636</td>
+				</tr><tr>
+					<td>Soru 8</td><td>1,82</td><td>%54,5454545454545</td>
+				</tr><tr>
+					<td>Soru 9</td><td>1,82</td><td>%54,5454545454545</td>
+				</tr><tr>
+					<td>Soru 10</td><td>2,12</td><td>%63,6363636363636</td>
+				</tr><tr>
+					<td>Soru 11</td><td>1,82</td><td>%54,5454545454545</td>
+				</tr><tr>
+					<td>Soru 12</td><td>1,52</td><td>%45,4545454545455</td>
+				</tr><tr>
+					<td>Soru 13</td><td>2,73</td><td>%81,8181818181818</td>
+				</tr><tr>
+					<td>Soru 14</td><td>2,42</td><td>%72,7272727272727</td>
+				</tr><tr>
+					<td>Soru 15</td><td>1,82</td><td>%54,5454545454545</td>
+				</tr><tr>
+					<td>Soru 16</td><td>2,12</td><td>%63,6363636363636</td>
+				</tr><tr>
+					<td>Soru 17</td><td>2,12</td><td>%63,6363636363636</td>
+				</tr><tr>
+					<td>Soru 18</td><td>2,42</td><td>%72,7272727272727</td>
+				</tr><tr>
+					<td>Soru 19</td><td>2,42</td><td>%72,7272727272727</td>
+				</tr><tr>
+					<td>Soru 20</td><td>1,82</td><td>%54,5454545454545</td>
+				</tr><tr>
+					<td>Soru 21</td><td>2,73</td><td>%81,8181818181818</td>
+				</tr><tr>
+					<td>Soru 22</td><td>2,12</td><td>%63,6363636363636</td>
+				</tr><tr>
+					<td>Soru 23</td><td>2,12</td><td>%63,6363636363636</td>
+				</tr><tr>
+					<td>Soru 24</td><td>2,12</td><td>%63,6363636363636</td>
+				</tr><tr>
+					<td>Soru 25</td><td>2,12</td><td>%63,6363636363636</td>
+				</tr><tr>
+					<td>Soru 26</td><td>0,61</td><td>%18,1818181818182</td>
+				</tr><tr>
+					<td>Soru 27</td><td>1,82</td><td>%54,5454545454545</td>
+				</tr><tr>
+					<td>Soru 28</td><td>2,42</td><td>%72,7272727272727</td>
+				</tr><tr>
+					<td>Soru 29</td><td>2,12</td><td>%63,6363636363636</td>
+				</tr><tr>
+					<td>Soru 30</td><td>1,82</td><td>%54,5454545454545</td>
+				</tr>
+			</table>
+		</div></td>
+	</tr>
+</table>

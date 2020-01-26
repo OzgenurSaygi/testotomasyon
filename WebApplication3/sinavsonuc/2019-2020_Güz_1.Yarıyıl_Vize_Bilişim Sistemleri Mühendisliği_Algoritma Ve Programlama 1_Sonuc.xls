@@ -1,0 +1,25 @@
+<div>
+	<table class="table table-bordered table-hover " cellspacing="0" rules="all" id="ContentPlaceHolder1_sonuclargrid" style="border-width:1px;border-style:Solid;width:281px;border-collapse:collapse;">
+		<tr>
+			<th scope="col">Numara</th><th scope="col">Ad-Soyad</th><th scope="col">Puan</th>
+		</tr><tr>
+			<td>120111065</td><td>EBRU-YILMAZ</td><td>50</td>
+		</tr><tr>
+			<td>090112006</td><td>DİDEM-DİK</td><td>53,33</td>
+		</tr><tr>
+			<td>130111047</td><td>ELZEM-AKSU</td><td>100</td>
+		</tr><tr>
+			<td>120111024</td><td>ELİF-ERG&#220;N</td><td>76,67</td>
+		</tr><tr>
+			<td>120111097</td><td>DUYGU-YENERSU</td><td>100</td>
+		</tr><tr>
+			<td>11111111</td><td>ZEYNEP-ASLAN</td><td>36,67</td>
+		</tr><tr>
+			<td>110111101</td><td>REMZİYE-ŞEN</td><td>56,67</td>
+		</tr><tr>
+			<td>100112074</td><td>UĞUR-USTA</td><td>50</td>
+		</tr><tr>
+			<td>120141097</td><td>KAYRA-YENERSU</td><td>20</td>
+		</tr>
+	</table>
+</div>

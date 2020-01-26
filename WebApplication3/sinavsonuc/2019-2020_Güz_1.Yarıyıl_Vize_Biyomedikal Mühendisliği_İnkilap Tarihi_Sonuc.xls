@@ -1,0 +1,321 @@
+<div>
+	<table class="table table-bordered table-hover " cellspacing="0" rules="all" id="ContentPlaceHolder1_sonuclargrid" style="border-width:1px;border-style:Solid;width:281px;border-collapse:collapse;">
+		<tr>
+			<th scope="col">Numara</th><th scope="col">Ad-Soyad</th><th scope="col">Puan</th>
+		</tr><tr>
+			<td>120111065</td><td>EBRU-YILMAZ</td><td>50</td>
+		</tr><tr>
+			<td>090112006</td><td>D�DEM-D�K</td><td>53,33</td>
+		</tr><tr>
+			<td>130111047</td><td>ELZEM-AKSU</td><td>100</td>
+		</tr><tr>
+			<td>120111024</td><td>EL�F-ERG�N</td><td>76,67</td>
+		</tr><tr>
+			<td>120111097</td><td>DUYGU-YENERSU</td><td>100</td>
+		</tr><tr>
+			<td>110112073</td><td>EZG�-KAPTAN ��C�</td><td>70</td>
+		</tr><tr>
+			<td>130111063</td><td>�EYDA-ORDUKAYA</td><td>56,67</td>
+		</tr><tr>
+			<td>130112059</td><td>SENA-ESEN</td><td>50</td>
+		</tr><tr>
+			<td>120112028</td><td>ASLIHAN-�INAR</td><td>100</td>
+		</tr><tr>
+			<td>120111018</td><td>AY�A-K�NE�</td><td>46,67</td>
+		</tr><tr>
+			<td>110112080</td><td>SENEM-DA�LIO�LU</td><td>36,67</td>
+		</tr><tr>
+			<td>130111075</td><td>FUNDA-YILDIRIM</td><td>70</td>
+		</tr><tr>
+			<td>130111015</td><td>K�BRA-KULAKSIZ</td><td>86,67</td>
+		</tr><tr>
+			<td>120111082</td><td>DUYGU-ORHAN</td><td>30</td>
+		</tr><tr>
+			<td>120111098</td><td>SEDA-�ZSA�IR</td><td>66,67</td>
+		</tr><tr>
+			<td>120111026</td><td>EK�N-SARI���EK</td><td>56,67</td>
+		</tr><tr>
+			<td>130111078</td><td>ESRA-�BRAH�MO�LU</td><td>50</td>
+		</tr><tr>
+			<td>110112069</td><td>�AFAK-GED�K</td><td>46,67</td>
+		</tr><tr>
+			<td>120112047</td><td>G�LAY-TOP</td><td>60</td>
+		</tr><tr>
+			<td>120112023</td><td>G�ZDE-SARI</td><td>86,67</td>
+		</tr><tr>
+			<td>100111001</td><td>MERT-TA�PINAR</td><td>73,33</td>
+		</tr><tr>
+			<td>120111063</td><td>BERF�N-KANAT</td><td>46,67</td>
+		</tr><tr>
+			<td>130111027</td><td>BEYZA-SCHULTETOBRI</td><td>63,33</td>
+		</tr><tr>
+			<td>110112040</td><td>B��RA-YILMAZ</td><td>23,33</td>
+		</tr><tr>
+			<td>130111050</td><td>MERVE-AYVACIK</td><td>63,33</td>
+		</tr><tr>
+			<td>110112049</td><td>AYDAN-TUTA</td><td>60</td>
+		</tr><tr>
+			<td>120111009</td><td>K�BRA-ALPARSLAN</td><td>76,67</td>
+		</tr><tr>
+			<td>120111095</td><td>FAT�H-KAYALI</td><td>40</td>
+		</tr><tr>
+			<td>120111042</td><td>NUR-ERDEN</td><td>56,67</td>
+		</tr><tr>
+			<td>130112079</td><td>ESRA-KU�</td><td>50</td>
+		</tr><tr>
+			<td>130111007</td><td>SENANUR-�ZATA</td><td>73,33</td>
+		</tr><tr>
+			<td>130111017</td><td>EL�F-�Z</td><td>66,67</td>
+		</tr><tr>
+			<td>110111088</td><td>AY�ENUR-BER��NL�</td><td>70</td>
+		</tr><tr>
+			<td>120112086</td><td>TU��E-�ET�NKAYA</td><td>60</td>
+		</tr><tr>
+			<td>110112015</td><td>AL� CEM-ERSOY</td><td>33,33</td>
+		</tr><tr>
+			<td>120112065</td><td>NAZLI-AK�AO�LU</td><td>73,33</td>
+		</tr><tr>
+			<td>120112027</td><td>KADER-�ET�N</td><td>76,67</td>
+		</tr><tr>
+			<td>100111005</td><td>G�KAY-KESK�N</td><td>66,67</td>
+		</tr><tr>
+			<td>&nbsp;</td><td>ZEYNEP-ASLAN</td><td>36,67</td>
+		</tr><tr>
+			<td>120112045</td><td>�REM-GAN�Z</td><td>73,33</td>
+		</tr><tr>
+			<td>120112082</td><td>YAZGI-�ST�NDA�</td><td>40</td>
+		</tr><tr>
+			<td>120112058</td><td>GAMZE-SEVER</td><td>73,33</td>
+		</tr><tr>
+			<td>130112054</td><td>AYG�L-ZORO�LU</td><td>46,67</td>
+		</tr><tr>
+			<td>120112002</td><td>MEL�KE-TAVUZ</td><td>76,67</td>
+		</tr><tr>
+			<td>130112016</td><td>BUSE G�K�E-KO�</td><td>36,67</td>
+		</tr><tr>
+			<td>130112023</td><td>O�UZHAN-YAMAN</td><td>83,33</td>
+		</tr><tr>
+			<td>120112024</td><td>REYHAN-CEYHAN</td><td>36,67</td>
+		</tr><tr>
+			<td>110112002</td><td>FAT�H-AYYILDIZ</td><td>60</td>
+		</tr><tr>
+			<td>110112005</td><td>ZEYNEP-�ZEK</td><td>60</td>
+		</tr><tr>
+			<td>120112007</td><td>TU��E-YAKAR</td><td>60</td>
+		</tr><tr>
+			<td>100112074</td><td>U�UR-USTA</td><td>50</td>
+		</tr><tr>
+			<td>120112072</td><td>BENAN-K�R��</td><td>43,33</td>
+		</tr><tr>
+			<td>090112017</td><td>� EVR�M-HALICI</td><td>26,67</td>
+		</tr><tr>
+			<td>110112071</td><td>ZEYNEP-��F��</td><td>70</td>
+		</tr><tr>
+			<td>110112072</td><td>B��RA-TOZLU</td><td>50</td>
+		</tr><tr>
+			<td>120112003</td><td>CANSU-YILDIZ</td><td>60</td>
+		</tr><tr>
+			<td>130112056</td><td>F�REYA-AKYOL</td><td>60</td>
+		</tr><tr>
+			<td>120112044</td><td>BATU-G�VEN</td><td>30</td>
+		</tr><tr>
+			<td>120112010</td><td>D�LEK-BA�AR</td><td>53,33</td>
+		</tr><tr>
+			<td>120112031</td><td>TAMER-K�PR�L�</td><td>70</td>
+		</tr><tr>
+			<td>120112015</td><td>ERVA-�ANLI</td><td>80</td>
+		</tr><tr>
+			<td>120112073</td><td>ELVAN-KUTLU</td><td>60</td>
+		</tr><tr>
+			<td>120112071</td><td>IRMAK-SARITOPRAK</td><td>73,33</td>
+		</tr><tr>
+			<td>120112081</td><td>OYA-�ZG�N</td><td>80</td>
+		</tr><tr>
+			<td>120112036</td><td>SEDA-Y�CE</td><td>70</td>
+		</tr><tr>
+			<td>130112048</td><td>SEDA NUR-G�LER</td><td>63,33</td>
+		</tr><tr>
+			<td>120112017</td><td>MERT-�K�L</td><td>100</td>
+		</tr><tr>
+			<td>120112013</td><td>G�LNUR-U�AKLI</td><td>66,67</td>
+		</tr><tr>
+			<td>130112052</td><td>EL�FNUR-EROL</td><td>50</td>
+		</tr><tr>
+			<td>110112056</td><td>�ZGE-YAL�INKAYA</td><td>93,33</td>
+		</tr><tr>
+			<td>130112020</td><td>MEL�H-�NALB</td><td>70</td>
+		</tr><tr>
+			<td>120112016</td><td>HASAN BARI�-�ANGIR</td><td>53,33</td>
+		</tr><tr>
+			<td>100111061</td><td>�LKNUR-BEYAZAY</td><td>73,33</td>
+		</tr><tr>
+			<td>130112074</td><td>CAN OZAN-USTA</td><td>60</td>
+		</tr><tr>
+			<td>11011 0</td><td>REMZ�YE-�EN</td><td>56,67</td>
+		</tr><tr>
+			<td>130112078</td><td>MEHMET O�UZ-�ZBUDAK</td><td>50</td>
+		</tr><tr>
+			<td>120112038</td><td>KEREM-BA�ARAN</td><td>76,67</td>
+		</tr><tr>
+			<td>020112080</td><td>CANBERK-TAVALI</td><td>83,33</td>
+		</tr><tr>
+			<td>120112067</td><td>HACI AL�-KARA</td><td>60</td>
+		</tr><tr>
+			<td>130112053</td><td>FURKAN N-G�NAY</td><td>76,67</td>
+		</tr><tr>
+			<td>&nbsp;</td><td>-</td><td>0</td>
+		</tr><tr>
+			<td>120112087</td><td>EL�F ESRA-KIRDAL</td><td>63,33</td>
+		</tr><tr>
+			<td>110112027</td><td>N�HAL-ADIG�ZEL</td><td>66,67</td>
+		</tr><tr>
+			<td>130111092</td><td>RAB�A-KASIMO�LU</td><td>60</td>
+		</tr><tr>
+			<td>110111087</td><td>S�MEYRA-KASIM</td><td>70</td>
+		</tr><tr>
+			<td>120111039</td><td>GAMZE-TERCAN</td><td>63,33</td>
+		</tr><tr>
+			<td>120111075</td><td>EFE-EJDERO�LU</td><td>73,33</td>
+		</tr><tr>
+			<td>120111027</td><td>KAD�R ONUR-S�MER</td><td>70</td>
+		</tr><tr>
+			<td>120111067</td><td>AYCAN-AYBAR</td><td>63,33</td>
+		</tr><tr>
+			<td>130111045</td><td>CEM�LE-�ZKUL</td><td>66,67</td>
+		</tr><tr>
+			<td>120111021</td><td>SEVG�-G�NER</td><td>56,67</td>
+		</tr><tr>
+			<td>120111060</td><td>TU��E-D�ZG�N</td><td>83,33</td>
+		</tr><tr>
+			<td>120111076</td><td>EL�F-ASLAN</td><td>50</td>
+		</tr><tr>
+			<td>120111071</td><td>TU�BA-CEYLAN</td><td>80</td>
+		</tr><tr>
+			<td>120111091</td><td>�ULE-�ZKAN</td><td>76,67</td>
+		</tr><tr>
+			<td>130111031</td><td>HAZAL-CO�KUN</td><td>66,67</td>
+		</tr><tr>
+			<td>130111077</td><td>HACERE-ERDO�AN</td><td>70</td>
+		</tr><tr>
+			<td>130111089</td><td>IUL��A-SEVER�NA</td><td>70</td>
+		</tr><tr>
+			<td>120111078</td><td>HAT�CE-Y�KSEL</td><td>30</td>
+		</tr><tr>
+			<td>120111043</td><td>BEYZA-TANGUT</td><td>70</td>
+		</tr><tr>
+			<td>130111064</td><td>SEM�H-YILDIRIM</td><td>90</td>
+		</tr><tr>
+			<td>120111038</td><td>MERVE-AKY�N</td><td>60</td>
+		</tr><tr>
+			<td>120111081</td><td>BURCU-YILDIRIM</td><td>60</td>
+		</tr><tr>
+			<td>120111059</td><td>G�ZEM NUR-ERDO�AN</td><td>56,67</td>
+		</tr><tr>
+			<td>120111045</td><td>O�UZHAN-ARIKAN</td><td>76,67</td>
+		</tr><tr>
+			<td>120111020</td><td>KEREM-KIR</td><td>43,33</td>
+		</tr><tr>
+			<td>120111029</td><td>BET�L-G�ND�Z</td><td>53,33</td>
+		</tr><tr>
+			<td>120111033</td><td>�BRAH�M-�AYIR</td><td>83,33</td>
+		</tr><tr>
+			<td>120111013</td><td>DERYA-D�LER</td><td>70</td>
+		</tr><tr>
+			<td>120111049</td><td>BURCU-AKAD</td><td>50</td>
+		</tr><tr>
+			<td>120111016</td><td>HACER-KARA</td><td>53,33</td>
+		</tr><tr>
+			<td>120111041</td><td>EL�F-ELMAS</td><td>63,33</td>
+		</tr><tr>
+			<td>130111082</td><td>HACI HAL�M-KURUMEHMET</td><td>50</td>
+		</tr><tr>
+			<td>120111061</td><td>MERVE-DEM�R</td><td>76,67</td>
+		</tr><tr>
+			<td>120111019</td><td>ECE-Y�CEL�RG�L</td><td>76,67</td>
+		</tr><tr>
+			<td>120111092</td><td>FURKAN-ERC�YAS</td><td>80</td>
+		</tr><tr>
+			<td>120111050</td><td>G�ZEM-�ZMEN</td><td>80</td>
+		</tr><tr>
+			<td>130111088</td><td>ABDOURAHMANE-SYLLA</td><td>43,33</td>
+		</tr><tr>
+			<td>130111042</td><td>��SEL-OTTS</td><td>53,33</td>
+		</tr><tr>
+			<td>130111018</td><td>EL�F M�RAY-G�ND�Z</td><td>60</td>
+		</tr><tr>
+			<td>130111001</td><td>�ZDE ETK�N-B�GA�</td><td>60</td>
+		</tr><tr>
+			<td>130111043</td><td>SEL�NAY-EREN</td><td>70</td>
+		</tr><tr>
+			<td>110111042</td><td>ADA �EYMA-KARAMAN</td><td>66,67</td>
+		</tr><tr>
+			<td>120111007</td><td>RAB�A NUR-BAYRAKTAR</td><td>56,67</td>
+		</tr><tr>
+			<td>120111030</td><td>SEHER-KAYA</td><td>66,67</td>
+		</tr><tr>
+			<td>120111066</td><td>MAZHAR-S�YLEMEZ</td><td>60</td>
+		</tr><tr>
+			<td>120111035</td><td>ECE-ELMASTA�</td><td>60</td>
+		</tr><tr>
+			<td>130111062</td><td>AHMET BURAK-CAN</td><td>86,67</td>
+		</tr><tr>
+			<td>120111031</td><td>B��RA-DURSUN</td><td>80</td>
+		</tr><tr>
+			<td>130111067</td><td>TURGAY-DARYAVUZ</td><td>90</td>
+		</tr><tr>
+			<td>110111046</td><td>ENG� N-YAZICI</td><td>86,67</td>
+		</tr><tr>
+			<td>110111089</td><td>FEYZA-A�KIN</td><td>83,33</td>
+		</tr><tr>
+			<td>110112075</td><td>FURGAN-TURHAN</td><td>66,67</td>
+		</tr><tr>
+			<td>110111054</td><td>DUYGU-�ZTEK</td><td>46,67</td>
+		</tr><tr>
+			<td>110112004</td><td>BURAK-EVKURAN</td><td>70</td>
+		</tr><tr>
+			<td>130112002</td><td>G�ZE M-�APIN</td><td>30</td>
+		</tr><tr>
+			<td>120112008</td><td>MERVE-VURAL</td><td>66,67</td>
+		</tr><tr>
+			<td>120112046</td><td>HAVVA-� *V</td><td>73,33</td>
+		</tr><tr>
+			<td>130111011</td><td>SEDANUR-�PEK</td><td>50</td>
+		</tr><tr>
+			<td>110112061</td><td>SERHAT-KARACAN</td><td>76,67</td>
+		</tr><tr>
+			<td>110112017</td><td>BERAT MERT-AKMAN</td><td>70</td>
+		</tr><tr>
+			<td>130111057</td><td>MERT-DEM�RBA�</td><td>66,67</td>
+		</tr><tr>
+			<td>130111008</td><td>B��RA-EKEN</td><td>70</td>
+		</tr><tr>
+			<td>120111077</td><td>EMRE-BORA</td><td>70</td>
+		</tr><tr>
+			<td>120112009</td><td>AYSU-AKDUMAN</td><td>56,67</td>
+		</tr><tr>
+			<td>120111051</td><td>ALPER-�ZGE</td><td>80</td>
+		</tr><tr>
+			<td>100112002</td><td>S�NAN-ERME</td><td>60</td>
+		</tr><tr>
+			<td>120112045</td><td>METEHAN-AYTEK�N</td><td>70</td>
+		</tr><tr>
+			<td>130111073</td><td>SENA-DERE</td><td>70</td>
+		</tr><tr>
+			<td>120111017</td><td>�EYMA NUR-KAND�L</td><td>83,33</td>
+		</tr><tr>
+			<td>120112054</td><td>NUR BANU-TOP�UO�LU</td><td>40</td>
+		</tr><tr>
+			<td>130112040</td><td>SENA-EREN</td><td>46,67</td>
+		</tr><tr>
+			<td>120112004</td><td>ABDULLAH-OCAKK���K</td><td>36,67</td>
+		</tr><tr>
+			<td>110112074</td><td>CANER-�ZDEM�R</td><td>70</td>
+		</tr><tr>
+			<td>110112046</td><td>ALP BO�A�HAN-BERKOL</td><td>60</td>
+		</tr><tr>
+			<td>100112055</td><td>�REM-�ALI�IR</td><td>40</td>
+		</tr><tr>
+			<td>130111026</td><td>SENA-TURAN</td><td>76,67</td>
+		</tr>
+	</table>
+</div>
